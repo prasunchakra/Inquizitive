@@ -16,8 +16,8 @@ InQuizitive is a mock exam platform designed to help users prepare for their pro
 The project is organized into three main repositories:
 
 - **Main Repository (Current)**: Contains project documentation, BDD specifications, and overall project management
-- **Frontend**: [Inquizitive-React-Front-End](https://github.com/yourusername/Inquizitive-React-Front-End)
-- **Backend**: [Inquizitive-Fast-API](https://github.com/yourusername/Inquizitive-Fast-API)
+- **Frontend**: [Inquizitive-React-Front-End](https://github.com/prasunchakra/Inquizitive-React-Front-End)
+- **Backend**: [Inquizitive-Fast-API](https://github.com/prasunchakra/Inquizitive-Fast-API)
 
 ## 🛠️ Technology Stack
 
